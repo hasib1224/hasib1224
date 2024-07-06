@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently working **@ML and @NLP**
 
 - 📫 How to reach me **bsse1224@iit.du.ac.bd**
 
